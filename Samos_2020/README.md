@@ -1,6 +1,9 @@
 ## Description
 The folder contains results from our study about the 2020 Mw 7.0 Samos earthquake.
 
+
+The dataset is also available at the [ISC Seismological Dataset Repository](http://www.isc.ac.uk/dataset_repository/view_submission.php?dsid=48)
+
 Please cite:
 **Fountoulakis, I., C. P. Evangelidis, and O.-J. Ktenidou (2023).
 Coseismic and Postseismic Imaging of a Composite Fault System: The Samos 2020
