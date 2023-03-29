@@ -2,9 +2,7 @@
 The folder contains results from our study about the 2020 Mw 7.0 Samos earthquake.
 
 ## Contents
-* **samos_sequence.xml**: 
-
-Relocated Catalog of the 2020 Samos Sequence
+* **samos_sequence.xml**: Relocated Catalog of the 2020 Samos Sequence
 
 Number of earthquakes : 6813
 
