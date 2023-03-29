@@ -19,6 +19,6 @@ The catalog includes information about the:
 The catalog is also available at the [ISC Seismological Dataset Repository](http://www.isc.ac.uk/dataset_repository/view_submission.php?dsid=48).
 
 Please cite:
-**[Fountoulakis, I., C. P. Evangelidis, and O.-J. Ktenidou (2023).
+[Fountoulakis, I., C. P. Evangelidis, and O.-J. Ktenidou (2023).
 Coseismic and Postseismic Imaging of a Composite Fault System: The Samos 2020
-Mw 7.0 Sequence, Bull. Seismol. Soc. Am. XX, 1–16, doi: 10.1785/0120220207]**(https://doi.org/10.1785/0120220207)
+Mw 7.0 Sequence, Bull. Seismol. Soc. Am. XX, 1–16, doi: 10.1785/0120220207](https://doi.org/10.1785/0120220207)
