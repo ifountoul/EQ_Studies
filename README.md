@@ -1,7 +1,7 @@
 # Earthquakes_Research_Results
 ## About
 
-This repository is designed to store and share the results of my earthquake research studies. It includes a range of data types, including seismic recordings, satellite imagery, geological data, and more. It also contains a variety of analysis results, from raw data to processed data, and various research findings, such as seismic hazard assessments, earthquake risk analysis, and earthquake forecasting.
+This repository is designed to store and share the results of earthquake research studies that i have participated.
 
 ## License
 
