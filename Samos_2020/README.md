@@ -3,6 +3,7 @@ The folder contains results from our study about the 2020 Mw 7.0 Samos earthquak
 
 ## Contents
 * **samos_sequence.xml**: 
+
 Relocated Catalog of the 2020 Samos Sequence
 Number of earthquakes : 6813
 Time period: 2020/10/30 - 2021/1/31 
