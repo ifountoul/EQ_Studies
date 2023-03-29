@@ -3,6 +3,9 @@
 
 This repository is designed to store and share the results of earthquake research studies that i have participated.
 
+## Folder Structure
+
+
 ## License
 
 This repository is licensed under the MIT License. Please see the [LICENSE](./LICENSE) file for more details.
