@@ -3,7 +3,8 @@
 
 This repository is designed to store and share the results of earthquake research studies that i have participated.
 
-## Folder Structure
+## Folders Structure
+* Samos_2020: Results from the analysis of the Samos 2020 Mw 7.0 Sequence
 
 
 ## License
