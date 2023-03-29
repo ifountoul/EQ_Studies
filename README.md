@@ -1,4 +1,4 @@
-# Earthquakes_Research_Results
+# Earthquake_Research_Results
 ## About
 
 This repository is designed to store and share the results of earthquake research studies that i have participated.
