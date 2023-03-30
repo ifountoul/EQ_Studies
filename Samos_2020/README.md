@@ -4,6 +4,8 @@ The folder contains results from our study about the 2020 Mw 7.0 Samos earthquak
 ##
 ![My Image](relocate_map_ecs_.png)
 
+*Figure of the relocated sequence presented in the 3rd European Conference on Earthquake Engineering & Seismology in Bucharest , Romania, 2022
+Title of the presentation: Automated High Resolution Catalog for the 2020 Mw 7 Samos earthquake*
 
 
 ## Contents
