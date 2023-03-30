@@ -1,6 +1,8 @@
 ## Description
 The folder contains results from our study about the 2020 Mw 7.0 Samos earthquake.
 
+![My Image](relocate_map_ecs_.png)relocate_map_ecs_.png
+
 ## Contents
 * **samos_sequence.xml**: Relocated Catalog of the 2020 Samos Sequence
 
